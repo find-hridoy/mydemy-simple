@@ -1,0 +1,46 @@
+.card {
+    border: none;
+    box-shadow: 3px 3px 30px #00000050;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.card img {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.card-text {
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+}
+
+.price {
+    font-size: 16px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.oldPrice {
+    color: gray;
+    font-weight: 500;
+    margin-left: 8px;
+    text-decoration: line-through;
+}
+
+.stock {
+    color: red;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.stock small {
+    font-weight: 500;
+}

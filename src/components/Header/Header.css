@@ -1,0 +1,14 @@
+.header {
+    background: #e7e7e7;
+    margin-bottom: 30px;
+}
+
+.signIn-btn {
+    border-radius: 50px;
+    font-weight: 500;
+    transition: transform ease-in-out .4s;
+}
+
+.signIn-btn:hover {
+    transform: translateY(3px);
+}

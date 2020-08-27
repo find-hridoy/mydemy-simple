@@ -1,0 +1,24 @@
+.each-items label {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.each-items input {
+    width: 110px;
+    height: 45px;
+
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 0 3px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.each-items:first-child input {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: red;
+    color: #fff;
+}

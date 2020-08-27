@@ -1,0 +1,12 @@
+.course-item {
+    padding: 6px;
+}
+
+.cart-area {
+    box-shadow: 3px 3px 25px gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 400px;
+}
